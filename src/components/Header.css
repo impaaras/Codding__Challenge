@@ -1,0 +1,21 @@
+
+.sticky{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    margin:50px 25px 25px 25px;
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 0px;
+    background-color: #8BBCCC;
+}
+.list{
+    margin:50px 25px 25px 25px;
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 0px;
+    background-color: #8BBCCC;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+}

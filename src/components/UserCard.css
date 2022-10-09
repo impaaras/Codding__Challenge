@@ -1,0 +1,8 @@
+.box{
+    margin:10px 25px 15px 25px;
+    background-color: #EFEFEF;
+}
+.text__user{
+    display: flex;
+    justify-content: space-around;
+}
